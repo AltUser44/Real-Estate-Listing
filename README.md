@@ -2,7 +2,9 @@
 
 ## Overview
 
-Dwello is a modern real estate platform built with Next.js 14, TypeScript, and Tailwind CSS. It provides a seamless experience for users to search, view, and inquire about properties.
+Dwello is a sophisticated real estate web application that connects home seekers with their dream properties. 
+Built with Next.js 14 and styled with Tailwind CSS, the platform offers a seamless property search experience with robust features:
+
 
 ## Features
 
