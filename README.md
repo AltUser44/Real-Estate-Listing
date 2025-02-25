@@ -6,11 +6,11 @@ Dwello is a modern real estate platform built with Next.js 14, TypeScript, and T
 
 ## Features
 
-![Dwello Home Page](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/106653283-1596759492822-MP_RealEstate-dollhouse.jpg-eBCQRMXKOr2ooNK5yPnGQ61WJxLe6H.jpeg)
+![Screenshot 2025-02-25 083231](https://github.com/user-attachments/assets/ee9f3386-e405-4000-83d8-0bfe7ba06c57)
 
 ### 🏠 Home Page
 - Dynamic property search
-- Featured listings
+- Featured Listings
 - Statistics overview (8K+ Homes, 6K+ Happy Clients, 2K+ Expert Agents)
 - Modern, responsive design
 
@@ -62,12 +62,12 @@ bash
 git clone https://github.com/yourusername/dwello.git
 
 2. Install dependencies:
-3. 
+   
 bash
 cd dwello
 npm install
 
-4. Set up environment variables:
+3. Set up environment variables:
 Create a `.env.local` file with:
 
 env
